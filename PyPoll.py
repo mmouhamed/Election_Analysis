@@ -78,20 +78,4 @@ with open(file_to_load) as file_data:
 
 
 
-        
-
-
-
-
-print(total_vote)
-print(candidate_options)
-print(candidate_votes)
-print(winning_count)
-print(wiining_percentage)
-print(winning_candidate)
-
-
-
-
-
 
