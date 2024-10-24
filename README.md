@@ -31,5 +31,5 @@ The analysis of the election show that:
 
  ## Challenge Overview
  ## Challenge Summary
-
- 
+U.S. Congress - District 1: Denver Decides Candidate Forum (9/21/2018)
+ https://www.youtube.com/watch?v=Z7z1o1WJLR4
